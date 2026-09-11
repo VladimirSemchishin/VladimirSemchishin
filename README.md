@@ -1,8 +1,10 @@
 # Vladimir Semchishin
 DevOps / SRE Engineer — implementing DevOps and building reliable, fault-tolerant architecture.
 
-🌐 [danko-smvn.global](https://danko-smvn.global/)  
-📬 [vladimirsemchishin240801@gmail.com](mailto:vladimirsemchishin240801@gmail.com) · Telegram [@sm_vn](https://t.me/sm_vn) · [LinkedIn](https://www.linkedin.com/in/vladimir-semchishin-72092142a)
+🌐 Web: [danko-smvn.global](https://danko-smvn.global/)  
+📬 Mail: [vladimirsemchishin240801@gmail.com](mailto:vladimirsemchishin240801@gmail.com)  
+✈️ Telegram: [@sm_vn](https://t.me/sm_vn)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vladimir-semchishin-72092142a)
 
 ## About
 4+ years DevOps/SRE. Worked with VK Tech, VTB, Halyk Bank, SPIMEX, Mindbox.  
