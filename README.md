@@ -11,8 +11,8 @@ Own delivery end-to-end: Terraform, Helm, GitLab CI, on-call, stakeholder-ready 
 Open to remote · Full-time · Relocation worldwide
 
 ## Highlights
-- 15+ production Kubernetes clusters operated (Mindbox)
-- 22× throughput in load tests: 50 → 1,100 TPS (Halyk Bank)
+- 15+ production Kubernetes clusters operated
+- 22× throughput in load tests: 50 → 1,100 TPS
 - Tarantool stand provisioning: ~1 day → ~20 minutes; idle resources −30–40%
 - Kafka on Kubernetes: spend −20–30%, stronger reliability
 - SPIMEX AI platform: sole infra owner, production on schedule (VK Cloud, 3 AZ)
