@@ -21,9 +21,9 @@ Open to remote · Full-time · Relocation worldwide
 
 ## Stack
 **Cloud:** VK Cloud, Yandex Cloud, AWS, Azure  
-**Orchestration:** Kubernetes, OpenShift, Helm, Docker  
+**Orchestration:** Kubernetes (helm, helmfile), OpenShift, Docker  
 **IaC:** Terraform, Ansible  
-**CI/CD & GitOps:** GitLab CI, GitHub Actions, Octopus Deploy, Helmfile  
+**CI/CD & GitOps:** GitLab CI, GitHub Actions, Octopus Deploy,   
 **Observability:** Prometheus, Grafana, Loki, Alloy, Thanos, Alertmanager, Graylog  
 **Data:** PostgreSQL, Tarantool / CDC / TQE, Kafka/Strimzi, Oracle (ops)  
 **Practices:** On-call, SLA/SLO, incident response, capacity planning
